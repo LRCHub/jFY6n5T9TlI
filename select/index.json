@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "優しさに溢れた世界で",
+  "base_artist": "Saucy Dog",
+  "createdAt": "2026-01-05T14:53:38.469315Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "優しさに溢れた世界で",
+      "artist": "Saucy Dog",
+      "has_synced": false,
+      "path": "select/pl_01_優しさに溢れた世界で_Saucy_Dog.txt"
+    }
+  ]
+}
